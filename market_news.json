@@ -1,92 +1,122 @@
 [
   {
-    "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+    "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+    "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-11T10:45:49+00:00",
+    "publishedAt": "2026-11-12T10:10:48+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
     "eventId": ""
   },
   {
-    "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-    "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+    "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+    "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-10T20:15:08+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-    "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-10T17:32:22+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-    "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-10T17:07:22+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
-    "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
-    "source": "SEC",
-    "publishedAt": "2026-11-10T16:15:35+00:00",
-    "asset": "REGULATION",
-    "status": "待核实",
-    "riskLevel": "P2",
-    "eventId": ""
-  },
-  {
-    "title": "Will stablecoins survive once the banks catch up?",
-    "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-10T14:00:00+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-10T12:15:00+00:00",
+    "publishedAt": "2026-11-12T09:15:04+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P2",
     "eventId": ""
   },
   {
-    "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+    "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+    "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-10T11:24:10+00:00",
+    "publishedAt": "2026-11-12T09:07:00+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
     "eventId": ""
   },
   {
-    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+    "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+    "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-10T10:48:37+00:00",
+    "publishedAt": "2026-11-12T07:41:18+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+    "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-12T07:00:37+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-12T05:22:31+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-11T16:00:45+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-11T13:00:00+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+    "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-11T12:57:36+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+    "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-11T12:21:24+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-11T12:19:30+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P2",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+    "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-11T11:37:04+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P2",
     "eventId": ""
   }
 ]
