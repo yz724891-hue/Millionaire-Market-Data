@@ -1,79 +1,129 @@
 [
   {
+    "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
+    "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-17T10:33:26+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+    "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-17T10:22:18+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P1",
+    "eventId": ""
+  },
+  {
+    "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+    "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-17T09:21:19+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P1",
+    "eventId": "binance-security"
+  },
+  {
+    "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+    "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-17T07:38:07+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+    "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-17T05:37:23+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P2",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T20:35:21+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+    "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T16:41:42+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P1",
+    "eventId": ""
+  },
+  {
+    "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+    "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T15:54:11+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "German parliament proposes crypto seizures without criminal charges",
+    "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T15:44:59+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Solana drops ‘beta’ label after more than six years",
+    "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T13:03:16+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T12:55:46+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-16T12:09:00+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
     "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
     "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
     "source": "CoinDesk",
     "publishedAt": "2026-11-16T11:03:14+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
-    "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-16T09:34:18+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-    "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-16T09:23:07+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-    "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-16T08:18:03+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-    "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-16T07:51:15+00:00",
-    "asset": "BTC",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-16T05:01:17+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-    "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-15T19:30:00+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-    "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-15T14:00:00+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
