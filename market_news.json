@@ -1,190 +1,90 @@
 [
   {
-    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-21T12:30:00+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-21T06:16:42+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-21T05:59:19+00:00",
+    "asset": "XRP",
+    "status": "待核实",
+    "riskLevel": "P2",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-21T04:10:07+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+    "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-20T22:51:14+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-20T22:05:31+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Federal Reserve announces College Fed Challenge winners",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
     "source": "Federal Reserve",
-    "publishedAt": "2026-11-20T15:00:00+00:00",
+    "publishedAt": "2026-11-20T21:15:00+00:00",
     "asset": "MACRO",
     "status": "待核实",
     "riskLevel": "P2",
     "eventId": ""
   },
   {
-    "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-    "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+    "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-20T14:38:30+00:00",
+    "publishedAt": "2026-11-20T18:13:52+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
     "eventId": ""
   },
   {
-    "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
-    "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+    "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
     "source": "SEC",
-    "publishedAt": "2026-11-20T14:28:28+00:00",
+    "publishedAt": "2026-11-20T18:03:24+00:00",
     "asset": "REGULATION",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
-    "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T13:35:33+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-    "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T13:30:22+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-    "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T13:11:49+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T12:15:08+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T11:42:02+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-    "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T10:48:04+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-    "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T08:04:40+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-    "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T06:12:15+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-    "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T06:08:28+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-    "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T05:32:25+00:00",
-    "asset": "BTC",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-    "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T05:20:51+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-    "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T04:58:08+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-    "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T04:28:52+00:00",
-    "asset": "SOL",
-    "status": "待核实",
-    "riskLevel": "P2",
-    "eventId": ""
-  },
-  {
-    "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-20T03:32:30+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-19T19:53:42+00:00",
-    "asset": "CRYPTO",
-    "status": "待核实",
-    "riskLevel": "P3",
-    "eventId": ""
-  },
-  {
-    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-    "source": "CoinDesk",
-    "publishedAt": "2026-11-19T18:15:56+00:00",
-    "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
     "eventId": ""
