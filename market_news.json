@@ -1,19 +1,179 @@
 [
   {
-    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-    "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-22T14:00:00+00:00",
+    "publishedAt": "2026-11-23T17:31:27+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
     "eventId": ""
   },
   {
-    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+    "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
     "source": "CoinDesk",
-    "publishedAt": "2026-11-21T17:50:00+00:00",
+    "publishedAt": "2026-11-23T16:39:03+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P2",
+    "eventId": ""
+  },
+  {
+    "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+    "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T15:29:01+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P1",
+    "eventId": "binance-security"
+  },
+  {
+    "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+    "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T15:02:32+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+    "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T14:43:18+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+    "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T13:49:44+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
+    "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T13:01:20+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T12:30:25+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+    "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T12:13:35+00:00",
+    "asset": "ETH",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T11:51:09+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
+    "url": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T11:33:00+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
+    "url": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T11:29:09+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
+    "url": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T10:53:19+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T10:31:02+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T09:40:25+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+    "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T07:45:30+00:00",
+    "asset": "CRYPTO",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+    "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T07:18:45+00:00",
+    "asset": "BTC",
+    "status": "待核实",
+    "riskLevel": "P3",
+    "eventId": ""
+  },
+  {
+    "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+    "source": "CoinDesk",
+    "publishedAt": "2026-11-23T05:42:22+00:00",
     "asset": "CRYPTO",
     "status": "待核实",
     "riskLevel": "P3",
